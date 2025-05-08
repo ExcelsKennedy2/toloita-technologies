@@ -3,12 +3,14 @@
 {% block title %}Home{% endblock %}
 {% block content %}
 <!-- Header Start -->
-            <div class="container-fluid bg-breadcrumb">
+            <div class="container-fluid bg-breadcrumb-2" >
                 <div class="container text-center py-5" style="max-width: 900px;">
                     <h2 class="text-primary display-4 mb-4 wow fadeInDown" data-wow-delay="0.1s">Welcome To Toloita Technologies</h2>
-                    <h3 class="text-uppercase text-primary mb-4">Tailored Tech Solutions for Every Business</h3>
-                    <h4 class="text-uppercase text-white mb-4">Bridging Innovation with Implementation</h4>
-                    <p class="text-white mb-5 fs-5">Good business leaders create a vision, articulate the vision, passionately own the vision and relentlessly drive it to completion</p>
+                    <h3 class="text-white mb-5">Tailored Tech Solutions for Every Business</h3>
+                    <div class="d-flex justify-content-center flex-shrink-0 mb-4">
+                        <a class="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2" href="{% url 'service' %}"><i class="fas fa-play-circle me-2"></i> Our Services</a>
+                        <a class="btn btn-primary rounded-pill py-3 px-4 px-md-5 ms-2" href="{% url 'contact' %}">Contact Us</a>
+                    </div>
                     </div>
             </div>
             <!-- Header End -->
