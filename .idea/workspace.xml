@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b24b046e-6343-4540-9e9f-b175102c5b98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toloita_technologies/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/toloita_technologies/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1745947982919" duration="12921000" />
       <workItem from="1746168536376" duration="200000" />
       <workItem from="1746701175549" duration="7923000" />
-      <workItem from="1747226843455" duration="704000" />
+      <workItem from="1747226843455" duration="1469000" />
     </task>
     <servers />
   </component>
